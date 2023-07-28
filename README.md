@@ -8,4 +8,5 @@
     ○username:employee password:12345aA@
 
 ●the employee user can create vacation requests 
+
 ●the manager user can create vacation requests and read created requests and request details.
